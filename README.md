@@ -3,7 +3,7 @@
 - 💻 I'm currently a Junior Software Engineer at [@stone-payments](https://github.com/stone-payments).
 - 📚 I'm always studying software engineering, distributed systems and good programming practices.
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasRafaell95&count_private=true&show_icons=true&theme=dark&count_private=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasRafaell95&count_private=true&show_icons=true&theme=dark)
 
 
 <!--
