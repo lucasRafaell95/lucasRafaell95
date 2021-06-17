@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋 I'm [Rafa](https://www.linkedin.com/in/lucas-rnsantos/)
+
+- 💻 I'm currently a Junior Software Engineer at [@stone-payments](https://github.com/stone-payments).
+- 📚 I'm always studying software engineering, distributed systems and good programming practices.
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasRafaell95&count_private=true&show_icons=true&theme=dark)
+
 
 <!--
 **lucasRafaell95/lucasRafaell95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
